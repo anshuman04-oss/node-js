@@ -1,0 +1,14 @@
+{
+    "Billu": {
+        "Name": "Billu Bhai",
+        "House": "21",
+        "Street": "Jane Street",
+        "City": "New York City"
+    }, 
+    "Jay": {
+        "Name": "Jay Parker",
+        "House": "68",
+        "Street": "Ni Hao",
+        "City": "Hong Kong"
+    }
+}
