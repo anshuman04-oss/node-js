@@ -1,0 +1,3 @@
+* Getting a variable parameter from url: const id = req.params.id;
+
+* If api has a dynamic route and let's say id is taken as input like :id, parameter passed is not passed as :id. It is passed as id. /:2 is wrong and /2 is right.
